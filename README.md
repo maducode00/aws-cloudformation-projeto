@@ -1,4 +1,3 @@
-# aws-cloudformation-projeto
 # 🚀 Projeto de Infraestrutura Automatizada na AWS com CloudFormation
 
 Este projeto tem como objetivo demonstrar a criação de uma infraestrutura básica na AWS utilizando o serviço **CloudFormation**, que permite definir e provisionar recursos de forma automatizada através de templates em YAML.
